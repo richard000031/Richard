@@ -35,8 +35,8 @@ Hi I'm Richard 👋
 
 #### Tech:
 
-- Frontend: HTML, CSS, JavaScript
+- Frontend: HTML, CSS, JavaScript (未來會用vue重構）
 
-- Backend: none(未來會用vue重構）
+- Backend: 
 
 - Database: MySQL
